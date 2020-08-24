@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-course-gifexpertapp/static/css/main.0c21b1db.chunk.css",
+    "main.js": "/react-course-gifexpertapp/static/js/main.b517a911.chunk.js",
+    "main.js.map": "/react-course-gifexpertapp/static/js/main.b517a911.chunk.js.map",
+    "runtime-main.js": "/react-course-gifexpertapp/static/js/runtime-main.10e00633.js",
+    "runtime-main.js.map": "/react-course-gifexpertapp/static/js/runtime-main.10e00633.js.map",
+    "static/js/2.56c56de3.chunk.js": "/react-course-gifexpertapp/static/js/2.56c56de3.chunk.js",
+    "static/js/2.56c56de3.chunk.js.map": "/react-course-gifexpertapp/static/js/2.56c56de3.chunk.js.map",
+    "index.html": "/react-course-gifexpertapp/index.html",
+    "precache-manifest.11c2e58145c818e2945273f878e9005d.js": "/react-course-gifexpertapp/precache-manifest.11c2e58145c818e2945273f878e9005d.js",
+    "service-worker.js": "/react-course-gifexpertapp/service-worker.js",
+    "static/css/main.0c21b1db.chunk.css.map": "/react-course-gifexpertapp/static/css/main.0c21b1db.chunk.css.map",
+    "static/js/2.56c56de3.chunk.js.LICENSE.txt": "/react-course-gifexpertapp/static/js/2.56c56de3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10e00633.js",
+    "static/js/2.56c56de3.chunk.js",
+    "static/css/main.0c21b1db.chunk.css",
+    "static/js/main.b517a911.chunk.js"
+  ]
+}
